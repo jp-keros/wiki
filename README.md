@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Lien vers version](Plugin_Version-6.md)
+Voil un [Lien vers version](Plugin_Version-6.md)
 
 You can use the [editor on GitHub](https://github.com/jp-keros/Z4D-Test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
