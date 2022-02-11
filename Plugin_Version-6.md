@@ -2,7 +2,6 @@
 
 # Explications pour passer de la version 5 à la version 6 plugin.
 
-</br>
 
 
 ## Informations concernant la phase Béta (de test)
