@@ -1,5 +1,5 @@
 
-| Item         | Price     |
+|       |      |
 |--------------|-----------|
 | <img src="Images/flag_uk.png" width="40" height="40"> | [Click here to access English Wiki](en-eng/Home.md)      |
 | <img src="Images/flag_france.png" width="40" height="40">   | [Cliquer ici pour accéder au wiki en français](fr-fr/Home.md) |
