@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.markdown-body h1 {
+  padding-bottom: 55px;
+  font-size: 2em;
+  border-bottom: 1px solid #eaecef;
+}
