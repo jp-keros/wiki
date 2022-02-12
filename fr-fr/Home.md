@@ -1,8 +1,5 @@
-<a href="Home.md"><img align="left" width="80" height="80" src="../Images/logo_Z4D.png" alt="Logo"></a>
-
 # Bienvenue sur le wiki du Plugin ZigBeeForDomoticZ pour DomoticZ !
 
-</br>
 
 <a href=../en-eng/Home.md><img src="../Images/flag_uk.png" width="15" height="15"></a> [Link to the English Wiki](../en-eng/Home.md) <a href=../nl-dut/Home.md><img src="../Images/flag_netherlands.png" width="15" height="15"></a> [Link naar de Wiki in het Nederlands](../nl-dut/Home.md)
 

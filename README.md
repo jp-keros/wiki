@@ -1,8 +1,5 @@
-<a href=""><img align="left" width="80" height="80" src="Images/logo_Z4D.png" alt="Logo"></a>
-
 # ZigBeeForDomoticZ plugin Wiki
 
-</br>
 
 <table width="200" border="0" cellpadding="2">
 <tr>
