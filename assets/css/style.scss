@@ -2,9 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
-.markdown-body h1 {
-  padding-bottom: 5px;
-  font-size: 2em;
-  border-bottom: 1px solid #eaecef;
+.titre {
+  padding-top: 50px;
 }
