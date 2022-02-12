@@ -5,24 +5,11 @@
 | <img src="Images/flag_france.png" width="40" height="40">   | [Cliquer ici pour accéder au wiki en français](fr-fr/Home.md) |
 | <img src="Images/flag_netherlands.png" width="40" height="40">     | [Klik hier om Nederland Wiki te opene](nl-dut/Home.md) |
 
-<table width="200" border="0" cellpadding="2">
-<tr>
-<td valign="middle" ><a href=en-eng/Home.md><img src="Images/flag_uk.png" width="40" height="40"></a></td>
-<td valign="middle">[Click here to access English Wiki](en-eng/Home.md)</td>
-</tr>
-<tr>
-<td valign="middle"><a href=fr-fr/Home.md><img src="Images/flag_france.png" width="40" height="40"></a></td>
-<td valign="middle">[Cliquer ici pour accéder au wiki en français](fr-fr/Home.md)</td>
-</tr>
-<tr>
-<td valign="middle">![Flag](Images/flag_netherlands.png)</td>
-<td valign="middle">[Klik hier om Nederland Wiki te opene](nl-dut/Home.md)</td>
-</tr>
-</table>
-
 # About
 
 This repository aim to centralize all ZigBeeForDomoticZ plugin's documentation.
+
+![Dashboard](Images/EN_WebUI-Dashboard.png)
 
 In particular you can find the various version of the plugin Wiki.
 
