@@ -1,14 +1,4 @@
 ---
 ---
 
-@import "jekyll-theme-tactile";
-.inner {
-  width: 980px;
-  margin: 0 auto;
-}
-.header {
-  width: 980px;
-  margin: auto;
-  margin-top: 20px;
-}
-
+@import "{{ site.theme }}";
