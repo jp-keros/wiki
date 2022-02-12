@@ -8,7 +8,7 @@
 
 This repository aim to centralize all ZigBeeForDomoticZ plugin's documentation.
 
-![Dashboard](Images/EN_WebUI-Dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 In particular you can find the various version of the plugin Wiki.
 
