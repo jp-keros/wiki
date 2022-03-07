@@ -1,6 +1,6 @@
 
 
-## Ajouter un menu pour le WebUI2
+## Ajouter un menu pour le WebUI
 
 1. Aller dans le dossier __domoticz/www/templates__
 
