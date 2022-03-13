@@ -15,7 +15,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=3><a href=www.toto.fr>ZiGate</a></td>
+            <td rowspan=3><a href="www.toto.fr">ZiGate</a></td>
             <td rowspan=3>Lixee</td>
             <td rowspan=2>ZiGate V1</td>
             <td>Legacy</td>
