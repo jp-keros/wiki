@@ -1,8 +1,7 @@
 <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-<!-- Setup Google Analytics -->
-{% include head-custom-matomo.html %}
-{% include banner.html %}
+
+
 <div class="container-lg my-5 markdown-body">
 <h1>
 <!--<a href="Home.md"><img align="left" width="80" height="80" src="Images/logo_Z4D.png"></a><div class="titre">ZigBeeForDomoticZ plugin Wiki<div>-->
@@ -24,5 +23,13 @@
     <button id="cookies-eu-reject">Reject</button>
     <button id="cookies-eu-accept">Accept</button>
 </div>
+  <script src="cookies-eu-banner/dist/cookies-eu-banner.min.js"></script>
+<script>
+    new CookiesEuBanner(function () {
+        // Your code to launch when user accept cookies
+      <!-- Setup Google Analytics -->
+      {% include head-custom-matomo.html %}
+    });
+</script>
   
 <!-- end custom head snippets -->
